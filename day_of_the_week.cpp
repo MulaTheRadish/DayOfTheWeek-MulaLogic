@@ -102,5 +102,5 @@ int main()
         index = 7 + index;
     }
 
-    cout << weekday[index] << endl;
+    cout << "The day of the week on the given date is:" << weekday[index] << endl;
 }
